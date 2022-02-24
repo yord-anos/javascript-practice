@@ -1,3 +1,16 @@
 body{
+    color:white;
     background-color:teal;
+}
+
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 40px;
+}
+main{
+    width: 90%;
+    max-width: 1080px;
+    padding :40px 0, 0;
 }
